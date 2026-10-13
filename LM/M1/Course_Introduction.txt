@@ -1,0 +1,36 @@
+Welcome to the “Linux Commands and Shell
+Scripting” course. In this course, you will explore Linux and
+the most commonly used shell commands. You will recognize that shell is a robust
+user interface for Linux and Unix-like operating systems. It can run applications and interpret commands. It also enables access and interactivity with
+files, utilities, and applications. You'll also learn how to write shell scripts
+to automate tasks, execute batch operations, and quickly construct useful programs. This course has four instructors: Ramesh Sannareddy,
+Rav Ahuja, Sam Prokupchuck, and Jeff Grossman. Ramesh Sannareddy is a seasoned subject matter
+expert with Skill-Up Technologies. Rav Ahuja is a Global Program Director at
+IBM and the architect for several IBM Professional Certificates. Sam Prokupchuck is a data scientist and software
+developer at IBM. And Jeff Grossman is a data science engineer
+and founder of 617 Data Solutions. Learning Linux commands and shell scripting
+(Bash in particular) makes you versatile. If you are a software developer, data scientist,
+data engineer, systems administrator, DevOps professional, system architect, or software
+engineer. A good understanding of Bash commands will
+enable you to write scripts that simplify the building process of all sorts of data
+pipelines and application workflows. We will start off with an introduction to
+Linux. You will learn about the origins of Unix and
+Linux, the architecture of a Linux distro, and how to accomplish simple tasks in a Linux
+terminal. The task of managing files and directories
+is crucial. You will learn how to navigate your file system
+and manage your files and directories by creating new directories, removing unwanted directories,
+creating new files, and copying and moving files and directories. You will learn how to view the content of
+your files in various ways. You will get hands-on experience with archiving
+the files and directories in a directory tree, extracting files and folders from your archives,
+and extracting and decompressing files from zipped archives.​ Script is a list of commands interpreted by
+a scripting language. It is widely used to automate processes. As we proceed, you will explore all aspects
+of scripts and Bash shell scripting, what shell scripting is used for, and how to create
+and run your own shell scripts.​ You will also discover useful features of
+the Bash shell along the way, including the use of metacharacters, input and output redirection,
+and passing arguments specified on the command line to your shell scripts. Finally, you'll put your newly acquired knowledge
+to test by finishing a practical project that requires using several Linux commands and
+creating a shell script. To get the most from this course, watch every
+video and check your learning by taking the quizzes. Use the discussion forums to connect with
+your peers and the teaching assistants. And most importantly, make sure you complete
+the hands-on labs to practice your new skills and demonstrate your abilities. ​ Congratulations on beginning the next step
+of this exciting journey. And good luck!
